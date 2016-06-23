@@ -1,0 +1,6 @@
+[package]
+name = "third_project"
+version = "0.1.0"
+authors = ["mistrpopo <fpegeot@gmail.com>"]
+
+[dependencies]

@@ -1,0 +1,8 @@
+[package]
+name = "second_project"
+version = "0.1.0"
+authors = ["mistrpopo <fpegeot@gmail.com>"]
+
+[dependencies]
+
+rand="0.3.0"
